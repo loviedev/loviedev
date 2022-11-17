@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/1042544283741343835) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lovie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Lovie)
 [![](https://visitcount.itsvg.in/api?id=loviedev&icon=7&color=6)](https://visitcount.itsvg.in)
